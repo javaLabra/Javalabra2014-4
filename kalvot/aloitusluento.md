@@ -26,16 +26,17 @@
     - Dokumentoidaan
     - Testataan
 - ...jokin sovellus itse valitusta aiheesta!
+- Jokainen näistä tärkeä -- jonkin laiminlyönti johtaa hylkäämiseen
 
 # Kurssin sisältö
 
 - Toteutuskielenä **Java**
-- Kolmannen osapuolen kirjastoja**saa käyttää**
+- Kolmannen osapuolen kirjastoja **saa käyttää**
 - Käytössä **Git**-versionhallinta sekä **GitHub**
 - Harjoitustyö on **yksilötyö**
 - Ohjelman **on toimittava** laitoksen tietokoneilla
 - Tuloksena **suoritettava ohjelma**
-    - Ei pelkkä kirjasto tai muu suoritettamattomissa oleva läjä koodia
+    - Ei pelkkä kirjasto tai muu suorittamattomissa oleva läjä koodia
 
 # Kurssin sisältö
 
@@ -64,7 +65,8 @@
     - Ensimmäinen deadline **tämän viikon torstaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
-    - Suuri osa pisteistä -- ja siten arvosanasta -- deadlinejen perusteella
+    - Suuri osa pisteistä -- ja siten arvosanasta -- tulee deadlinejen perusteella
+    - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
 
 # Kurssin kulku
 
@@ -81,7 +83,7 @@
 
 # Kurssin kulku
 
-- Kurssin lopuksi **demotilaisuus**
+- Kurssin lopuksi pakollinen **demotilaisuus**
     - Jokainen opiskelija esittelee muille projektiaan jotakuinkin viiden minuutin ajan
     - Opiskelijat paikalla koko demotilaisuuden ajan
     - Harjoitustyön ei tarvitse olla demossa vielä aivan valmis
