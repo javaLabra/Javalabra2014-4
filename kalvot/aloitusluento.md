@@ -88,9 +88,10 @@
     - Opiskelijat paikalla koko demotilaisuuden ajan
     - Harjoitustyön ei tarvitse olla demossa vielä aivan valmis
 
-# Palopuhe
+# Motivointi
 
-- **Älä jätä kurssia kesken!**
+- Kyseessä on yksi LuK-tutkinnon mukavimmista kursseista - voit toteuttaa mitä itse haluat!
+- Kurssista on apua työnhaussa
 - Jos jäät jumiin, tule juttelemaan ohjaajille
     - Olemme täällä teitä varten!
 - Tavallisesti kurssien keskeyttämisestä ei juuri seurauksia -- harjoitustyöt poikkeus
