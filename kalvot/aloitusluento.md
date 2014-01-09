@@ -67,7 +67,6 @@
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulee deadlinejen perusteella
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
-- Kurssilla **ei ole kurssikoetta**
 
 # Kurssin kulku
 
@@ -88,6 +87,7 @@
     - Jokainen opiskelija esittelee muille projektiaan jotakuinkin viiden minuutin ajan
     - Opiskelijat paikalla koko demotilaisuuden ajan
     - Harjoitustyön ei tarvitse olla demossa vielä aivan valmis
+- Kurssilla **ei ole kurssikoetta**
 
 # Motivointi
 
