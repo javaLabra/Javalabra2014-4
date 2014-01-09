@@ -67,6 +67,7 @@
         - Ei sähköpostipalautuksia
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulee deadlinejen perusteella
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
+- **Ei kurssikoetta**
 
 # Kurssin kulku
 
