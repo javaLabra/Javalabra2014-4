@@ -99,6 +99,6 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline ensi torstaina
+- Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 22:00
 - Kaikki tarvittava löytyy kurssisivulta: <https://github.com/javaLabra/Javalabra2014-3/wiki>
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tahi pyytämään apua ensimmäisen deadlinen tai muissa asioissa
