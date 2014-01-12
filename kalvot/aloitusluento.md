@@ -10,16 +10,9 @@
     - Lauri Kangassalo -- **ransum**
 - Yhteyttä sähköpostilla tai irkissä; etunimi.sukunimi@helsinki.fi
 - Irkkikanava #javalabra2014 @ IRCnet
-
 - Kurssisivu <https://github.com/javaLabra/Javalabra2014-3/wiki>
 
-# Esitietovaatimukset
-
-- Ohjelmoinnin jatkokurssin hyväksytty suoritus **pakollinen**
-- Ohjelmistotekniikan menetelmät -kurssin suoritus lähtökohtaisesti pakollinen
-    - Jos olet käynyt kurssin, mutta olet esimerkiksi ollut poissa tentin aikana tai muuten vain haluat ehdottomasti päästä kurssille ilman suoritusta, tule juttelemaan luennon jälkeen.
-
-# Kurssin sisältö
+# Mistä kyse?
 
 - Kurssilla...
     - Ohjelmoidaan
@@ -27,6 +20,12 @@
     - Testataan
 - ...jokin sovellus itse valitusta aiheesta!
 - Jokainen näistä tärkeä -- jonkin laiminlyönti johtaa hylkäämiseen
+
+# Esitietovaatimukset
+
+- *Ohjelmoinnin jatkokurssin* hyväksytty suoritus **pakollinen**
+- *Ohjelmistotekniikan menetelmät* -kurssin suoritus lähtökohtaisesti pakollinen
+    - Jos olet käynyt kurssin, mutta olet esimerkiksi ollut poissa tentin aikana tai muuten vain haluat ehdottomasti päästä kurssille, tule juttelemaan luennon jälkeen.
 
 # Kurssin sisältö
 
@@ -72,7 +71,7 @@
     - Ensimmäinen deadline **tämän viikon torstaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
         - Ei sähköpostipalautuksia
-    - Suuri osa pisteistä -- ja siten arvosanasta -- tulee deadlinejen perusteella
+    - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinien perusteella
     - Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta
 
 # Kurssin kulku
