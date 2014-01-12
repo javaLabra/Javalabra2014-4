@@ -58,6 +58,13 @@
     - Aihetta voi tarvittaessa laajentaa lisäominaisuuksilla -- esimerkiksi tiedostoon tallennetulla highscore-listalla
     - Ohjaajilta voi pyytää laajennusideoita
 
+# Testaus, Maven, Cobertura ja PIT
+
+- Kurssilla edellytetään kattavaa **automaattista testausta**
+- Nyt toista kertaa kurssilla mukana myös **rivikattavuus** (Cobertura) ja **mutaatiotestaus** (PIT)
+    - Tuttuja *Ohjelmistotekniikan menetelmät* -kurssilta
+- Kurssisivulla ohjeet työkalujen konffaamiseen
+
 # Kurssin kulku
 
 - Jokaisen viikon torstaina **deadline** kello 22:00
@@ -70,7 +77,12 @@
 
 # Kurssin kulku
 
-- Kurssin aikana tarjolla **ohjausta** joka viikko
+- Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
+    - Alustava viikottainen aikataulu:
+        - **tiistai 11-14**
+        - **keskiviikko 13-16**
+        - **torstai 13-16**
+    - Luokassa B221 (kakkoskerroksen pajaluokka)
     - Vapaaehtoista
     - Paras väylä saada apua ja palautetta ohjaajilta
 
@@ -79,6 +91,7 @@
 - Viikolla 5 **koodikatselmointi**
     - Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
     - Opiskelijat kirjoittavat palautetta toisen projektista
+    - Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
     - Pisteitä tarjolla!
 
 # Kurssin kulku
@@ -96,10 +109,12 @@
 - Jos jäät jumiin, tule juttelemaan ohjaajille
     - Olemme täällä teitä varten!
 - Tavallisesti kurssien keskeyttämisestä ei juuri seurauksia -- harjoitustyöt poikkeus
+    - Kurssille pääsy vaikeutuu keskeyttämisen jälkeen
 
 # Kiitos!
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 22:00
 - Kaikki tarvittava löytyy kurssisivulta: <https://github.com/javaLabra/Javalabra2014-3/wiki>
+    - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tahi pyytämään apua ensimmäisen deadlinen tai muissa asioissa
