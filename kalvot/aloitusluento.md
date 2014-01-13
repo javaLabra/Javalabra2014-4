@@ -83,7 +83,7 @@
     - Alustava viikottainen aikataulu:
         - **tiistai 11-14**
         - **keskiviikko 13-16**
-        - **torstai 13-16**
+        - **torstai 12-15**
     - Luokassa B221 (kakkoskerroksen pajaluokka)
     - Vapaaehtoista
     - Paras väylä saada apua ja palautetta ohjaajilta
