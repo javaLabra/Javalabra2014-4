@@ -5,7 +5,7 @@
 # Ohjaajat
 
 - Ohjaajat
-    - Lassi Vapaakallio -- **Vaakapallo** (karkasi ruotsin luennolle)
+    - Lassi Vapaakallio -- **Vaakapallo**
     - Mika Viinamäki -- **Kauhsa**
     - Lauri Kangassalo -- **ransum**
 - Yhteyttä sähköpostilla tai irkissä; etunimi.sukunimi@helsinki.fi
