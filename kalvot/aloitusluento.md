@@ -39,8 +39,7 @@
 - Ohjelman **on toimittava** laitoksen tietokoneilla
 - Tuloksena **suoritettava ohjelma**
     - Ei pelkkä kirjasto tai muu suorittamattomissa oleva läjä koodia
-- Ohjelmalla oltava **käyttöliittymä**
-    - Jos ei hyvää syytä, niin **graafinen**
+- Ohjelmalla oltava **käyttöliittymä**, mielellään **graafinen**
 
 # Kurssin sisältö
 
