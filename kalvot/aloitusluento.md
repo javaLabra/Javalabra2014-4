@@ -1,16 +1,15 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Lassi Vapaakallio; Mika Viinamäki; Lauri Kangassalo
-% 14.1.2014
+% Lauri Kangassalo; Emmi Otava
+% 11.3.2014
 
 # Ohjaajat
 
 - Ohjaajat
-    - Lassi Vapaakallio -- **Vaakapallo**
-    - Mika Viinamäki -- **Kauhsa**
     - Lauri Kangassalo -- **ransum**
+	 - Emmi Otava -- **Emiri**
 - Yhteyttä sähköpostilla tai irkissä; etunimi.sukunimi@helsinki.fi
 - Irkkikanava #javalabra2014 @ IRCnet
-- Kurssisivu <https://github.com/javaLabra/Javalabra2014-3/wiki>
+- Kurssisivu <https://github.com/javaLabra/Javalabra2014-4/wiki>
 
 # Mistä kyse?
 
@@ -29,6 +28,7 @@
 - Tule juttelemaan, jos:
     - Olet käynyt kurssit, mutta olet esimerkiksi ollut poissa tentin aikana
     - Mikä tahansa muu puute esitietovaatimuksiin liittyen
+- Voit suorittaa Javalabran samaan aikaan nyt käynnissä olevan OTM:n kanssa
 
 # Kurssin sisältö
 
@@ -64,13 +64,13 @@
 # Testaus, Maven, Cobertura ja PIT
 
 - Kurssilla edellytetään kattavaa **automaattista testausta**
-- Nyt toista kertaa kurssilla mukana myös **rivikattavuus** (Cobertura) ja **mutaatiotestaus** (PIT)
+- Nyt kurssilla mukana myös **rivikattavuus** (Cobertura) ja **mutaatiotestaus** (PIT)
     - Tuttuja *Ohjelmistotekniikan menetelmät* -kurssilta
 - Kurssisivulla ohjeet työkalujen konffaamiseen
 
 # Kurssin kulku
 
-- Jokaisen viikon torstaina **deadline** kello 22:00
+- Jokaisen viikon torstaina **deadline** kello 23:59
     - Deadlinestä annetaan 0-3 pistettä kunkin deadlinen tehtävien mukaisesti
     - Ensimmäinen deadline **tämän viikon torstaina!**
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
@@ -82,9 +82,6 @@
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
     - Alustava viikottainen aikataulu:
-        - **tiistai 11-14**
-        - **keskiviikko 13-16**
-        - **torstai 12-15**
     - Luokassa B221 (kakkoskerroksen pajaluokka)
     - Vapaaehtoista
     - Paras väylä saada apua ja palautetta ohjaajilta
@@ -117,7 +114,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 22:00
-- Kaikki tarvittava löytyy kurssisivulta: <https://github.com/javaLabra/Javalabra2014-3/wiki>
+- Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
+- Kaikki tarvittava löytyy kurssisivulta: <https://github.com/javaLabra/Javalabra2014-4/wiki>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tahi pyytämään apua ensimmäisen deadlinen tai muissa asioissa
