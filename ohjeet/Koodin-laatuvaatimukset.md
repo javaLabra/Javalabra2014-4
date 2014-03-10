@@ -1,4 +1,6 @@
-﻿Kurssin tavoitteena on, että tuotoksesi voisi ottaa kuka tahansa kaverisi tai muu opiskelija ylläpidettäväksi ja laajennettavaksi. Tavoitteena on Clean code - selkeää, ylläpidettävää ja toimivaksi testattua koodia. Tämä sivu esittelee erityisesti *lopullisen* palautuksen laatuvaatimukset, mutta lueteltuja vaatimuksia tulisi noudattaa mahdollisimman pian alussa.
+﻿# Koodin laatuvaatimukset
+
+Kurssin tavoitteena on, että tuotoksesi voisi ottaa kuka tahansa kaverisi tai muu opiskelija ylläpidettäväksi ja laajennettavaksi. Tavoitteena on Clean code - selkeää, ylläpidettävää ja toimivaksi testattua koodia. Tämä sivu esittelee erityisesti *lopullisen* palautuksen laatuvaatimukset, mutta lueteltuja vaatimuksia tulisi noudattaa mahdollisimman pian alussa.
 
 ### Clean Code
 
