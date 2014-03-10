@@ -9,7 +9,7 @@
 	 - Emmi Otava -- **Emiri**
 - Yhteyttä sähköpostilla tai irkissä; etunimi.sukunimi@helsinki.fi
 - Irkkikanava #javalabra2014 @ IRCnet
-- Kurssisivu <https://github.com/javaLabra/Javalabra2014-4/wiki>
+- Kurssisivu <https://github.com/javaLabra/Javalabra2014-4/README.md>
 
 # Mistä kyse?
 
@@ -81,9 +81,9 @@
 # Kurssin kulku
 
 - Kurssin aikana tarjolla **ohjausta** eli pajaa joka viikko
-    - Alustava viikottainen aikataulu:
+    - Alustava viikoittainen aikataulu:
     	- **ke 16-18**
-    	- **to 15-16**
+    	- **to 14-16**
     - Luokassa B221 (kakkoskerroksen pajaluokka)
     - Vapaaehtoista
     - Paras väylä saada apua ja palautetta ohjaajilta
@@ -117,6 +117,6 @@
 
 - **Tervetuloa kurssille!**
 - Muistakaa -- ensimmäinen deadline tämän viikon torstaina klo 23:59
-- Kaikki tarvittava löytyy kurssisivulta: <https://github.com/javaLabra/Javalabra2014-4/wiki>
+- Kaikki tarvittava löytyy kurssisivulta: <https://github.com/javaLabra/Javalabra2014-4/README.md>
     - Kannattaa käydä koko sivusto läpi tarkkaan!
-- Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tahi pyytämään apua ensimmäisen deadlinen tai muissa asioissa
+- Ohjaajat jäävät paikalle luennon jälkeen -- tervetuloa kyselemään tai pyytämään apua ensimmäisen deadlinen tai muissa asioissa
