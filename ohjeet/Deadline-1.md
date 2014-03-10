@@ -2,6 +2,7 @@
 
 ### Luo itsellesi Github-repositorio, jonka nimi vastaa projektiasi.
 * Esimerkiksi jos harjoitustyösi aihe on Monopoli ylimääräisellä blingillä niin repositoriosi voit nimetä vaikkapa Swagopoliksi.
+* Älä siis valitse nimeksi geneerisiä 'Javalabra' tai 'OhHa'.
 * [Git-ohje](Git-ohje.md)
 
 ### Luo uusi Netbeans-projekti repositoriokansioosi
