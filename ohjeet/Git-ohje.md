@@ -16,13 +16,13 @@ Git on laajalti käytetty versionhallinnan työkalu, jota tarvitaan muunmuassa h
 
 1. Jos et ole koulun koneella ja koneessasi ei ole valmiiksi Gitiä, voit ladata sen täältä: http://help.github.com/win-set-up-git/. Ohje on Windowsille, mutta sen alussa on linkit myös muita käyttöjärjestelmiä varten.
 2. Mene osoitteeseen "http://www.github.com/plans":http://www.github.com/plans
-3. Paina oikealla ylhäällä olevaa nappia *Create a free account*
-4. Täytä vaadittavat neljä kenttää ja klikkaa *Create an account*
-5. Paina oikealla olevaa harmaata nappia *New repository*
-6. Laita repositorion nimeksi esimerkiksi *OhHa*, harjoitustyösi aihe tai oma nimiehdotuksesi ohjelmalle
-  * Valitse pallura *Public*
-  * Valitse ruutu *Initialize this repository with a README*
-7. Klikkaa lopuksi *Create repository*.
+3. Paina oikealla ylhäällä olevaa nappia "Create a free account"
+4. Täytä vaadittavat neljä kenttää ja klikkaa "Create an account"
+5. Paina oikealla olevaa harmaata nappia "New repository"
+6. Laita repositorion nimeksi esimerkiksi "OhHa", harjoitustyösi aihe tai oma nimiehdotuksesi ohjelmalle
+  * Valitse pallura "Public"
+  * Valitse ruutu "Initialize this repository with a README"
+7. Klikkaa lopuksi "Create repository".
 
 ### SSH-avaimen luominen omalla koneella
 
@@ -42,8 +42,8 @@ SSH-avaimen luominen ei ole pakollista, mutta helpottaa versionhallinnan käytt�
 7. Kopioi koko tiedoston sisältö (eli teksti)
 8. Avaa nettiselaimella Github ja kirjaudu sisään (jos et jo ole kirjautuneena)
 9. Paina oikeassa yläkulmassa olevaa jakoavaimen ja ruuvimeisselin kuvaa (“Account Settings”)
-10. Klikkaa vasemmalta “SSH Keys” ja sitten oikealta nappia *Add SSH key*
-11. Anna nimeksi (Title) vaikka *Laitoksen avain* ja liitä Key-kenttään kohdassa 10 kopioimasi teksti. Poista tekstin seasta mahdolliset rivinvaihdot ja välilyönnit, jotta avaimesi sekaan ei jää “white spaceja”. Paina lopuksi nappia *Add key*.
+10. Klikkaa vasemmalta “SSH Keys” ja sitten oikealta nappia "Add SSH key"
+11. Anna nimeksi (Title) vaikka "Laitoksen avain" ja liitä Key-kenttään kohdassa 10 kopioimasi teksti. Poista tekstin seasta mahdolliset rivinvaihdot ja välilyönnit, jotta avaimesi sekaan ei jää “white spaceja”. Paina lopuksi nappia "Add key".
 12. Anna confirm-kentälle Githubin salasanasi
 13. Avaimesi on nyt lisätty Githubiin!
 
@@ -137,5 +137,7 @@ Vastaavasti .gitignore-tiedostoon voi lisätä omia sääntöjä. Jokainen sää
 Säännöistä löytää lisää esimerkkejä osoitteissa:
 
 http://git-scm.com/docs/gitignore
+
 https://help.github.com/articles/ignoring-files
+
 http://cfmumbojumbo.com/cf/index.cfm/coding/git-giving-files-the-cold-shoulder-gitignore/
