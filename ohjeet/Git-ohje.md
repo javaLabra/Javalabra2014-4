@@ -15,14 +15,15 @@ Git on laajalti käytetty versionhallinnan työkalu, jota tarvitaan muunmuassa h
 **ÄLÄ** käytä Netbeansin tarjoamaa Git-lisäosaa **ÄLÄKÄ** graafisia ohjelmia. Tähän asti kaikki kurssilla päivän koodaustyönsä menettäneiden ongelmat ovat johtuneet näistä. Käytä aina Linuxissa terminaalia tai Windowsissa Git Bashia, ja tee Commitit sekä Pushit käsin.
 
 1. Jos et ole koulun koneella ja koneessasi ei ole valmiiksi Gitiä, voit ladata sen täältä: http://help.github.com/win-set-up-git/. Ohje on Windowsille, mutta sen alussa on linkit myös muita käyttöjärjestelmiä varten.
-2. Mene osoitteeseen "http://www.github.com/plans":http://www.github.com/plans
-3. Paina oikealla ylhäällä olevaa nappia "Create a free account"
-4. Täytä vaadittavat neljä kenttää ja klikkaa "Create an account"
-5. Paina oikealla olevaa harmaata nappia "New repository"
-6. Laita repositorion nimeksi esimerkiksi "OhHa", harjoitustyösi aihe tai oma nimiehdotuksesi ohjelmalle
+2. Mene osoitteeseen [http://www.github.com/plans](http://www.github.com/plans)
+3. Hae itsellesi opiskelijatunnusta githubiin, saat ilmaisen Micro-planin ja siten ilmaisia private-repositorioita [https://education.github.com/](https://education.github.com/) 
+4. Paina oikealla ylhäällä olevaa nappia "Create a free account"
+5. Täytä vaadittavat neljä kenttää ja klikkaa "Create an account"
+6. Paina oikealla olevaa harmaata nappia "New repository"
+7. Laita repositorion nimeksi esimerkiksi "OhHa", harjoitustyösi aihe tai oma nimiehdotuksesi ohjelmalle
   * Valitse pallura "Public"
   * Valitse ruutu "Initialize this repository with a README"
-7. Klikkaa lopuksi "Create repository".
+8. Klikkaa lopuksi "Create repository".
 
 ### SSH-avaimen luominen omalla koneella
 
