@@ -21,7 +21,7 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai lähetä sähköpostia.
 
 ### Uutisia
-* **(6.3)** Jos et ole suorittanut OTM:ää, osallistu tälle kurssille "http://www.cs.helsinki.fi/courses/582104/2014/k/k/1":http://www.cs.helsinki.fi/courses/582104/2014/k/k/1
+* **(6.3)** Jos et ole suorittanut OTM:ää, osallistu tälle kurssille [http://www.cs.helsinki.fi/courses/582104/2014/k/k/1](http://www.cs.helsinki.fi/courses/582104/2014/k/k/1)
 
 
 
