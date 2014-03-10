@@ -1,6 +1,6 @@
 #Tehtävät ja palautus
 
-*Deadline on palautuksille 1-5 aina klo 23:59*, esim. ensimmäinen deadline on torstai 13.3. klo 23:59
+**Deadline on palautuksille 1-5 aina klo 23:59**, esim. ensimmäinen deadline on torstai 13.3. klo 23:59
 
 Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
@@ -9,9 +9,9 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia,
 * Deadlinesta saa max. 3 pistettä
 * Maksimipisteet vaatimuksien täyttämisestä siis 15
 * Myöhästymisestä pisteet on 0
-** Seuraavaan deadlineen on oltava kyseinen deadline ja myöhästynyt deadline
+  * Seuraavaan deadlineen on oltava kyseinen deadline ja myöhästynyt deadline
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
-* *Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä*
+* **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
 ### Deadline I, torstai 13.3.
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
