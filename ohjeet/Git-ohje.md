@@ -137,5 +137,7 @@ Vastaavasti .gitignore-tiedostoon voi lisätä omia sääntöjä. Jokainen sää
 Säännöistä löytää lisää esimerkkejä osoitteissa:
 
 http://git-scm.com/docs/gitignore
+
 https://help.github.com/articles/ignoring-files
+
 http://cfmumbojumbo.com/cf/index.cfm/coding/git-giving-files-the-cold-shoulder-gitignore/
