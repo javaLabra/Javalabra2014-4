@@ -1,14 +1,14 @@
 # Deadline 1
 
-## Luo itsellesi Github-repositorio, jonka nimi vastaa projektiasi.
+### Luo itsellesi Github-repositorio, jonka nimi vastaa projektiasi.
 * Esimerkiksi jos harjoitustyösi aihe on Monopoli ylimääräisellä blingillä niin repositoriosi voit nimetä vaikkapa Swagopoliksi.
 * [Git-ohje](Git-ohje.md)
 
-## Luo uusi Netbeans-projekti repositoriokansioosi
+### Luo uusi Netbeans-projekti repositoriokansioosi
 * Luo projekti ja konfiguroi Maven, Cobertura ja PIT [näiden ohjeiden](Maven-Cobertura-ja-PIT.md) mukaisesti.
 * Samalla kansioon pitäisi ilmestyä .gitignore -tiedosto
 
-## Kirjoita aihemäärittely
+### Kirjoita aihemäärittely
 
 Lyhyt kuvaus toteutettavasta ohjelmasta. Kuvauksen ei tarvitse olla kovin pitkä eikä kattava. Kuvaus tarkentuu myöhemmin, aluksi dokumentoidaan vain ideat, joiden pohjalta työtä lähdetään tekemään. Kuvaus sisältää muutaman tekstikappaleen pituisen yleiskuvauksen.
 
@@ -38,14 +38,14 @@ Toteutetaan järjestelmä, jonka avulla ylläpidetään tietojenkäsittelylaitoksen ku
 * tietyn kurssin ilmoittautujien listaaminen
 * ...
 
-## Aloita tuntikirjanpito
+### Aloita tuntikirjanpito
 
 * Muoto: md-tiedosto
 * Pidä kirjaa harjoitustyöhön käyttämästäsi työmäärästä
 * Käyttämäsi työmäärä ei vaikuta arvosanaan, joten ole rehellinen
 * Merkitse aina vähintään päivämäärä, käyttämäsi aika ja ajankäytön kohde
 
-## Noudata kansiorakennetta
+### Noudata kansiorakennetta
 
 Kansiorakenne näyttää sen, miltä projektikansion pitäisi näyttää kurssin lopulla. Esimerkiksi Javadoc-kansiota tai käyttöohjeita ei tarvitse kuin kurssin lopussa. Noudata selkeää kansiorakennetta kuitenkin heti alussa. 
 
@@ -61,7 +61,7 @@ Kansiorakenne:
     * tuntikirjanpito.md
     * luokka- ja sekvenssikaaviot.png tai .jpg
 
-## Palauta Githubiin ja rekisteröi itsesi kurssin labtooliin
+### Palauta Githubiin ja rekisteröi itsesi kurssin labtooliin
 
 Puske (push) kaikki edellä tehdyt muutokset ja lisäykset Githubiin Git-ohjeiden mukaisesti.
 Rekisteröi itsesi kurssin labtooliin osoitteessa: http://tktl-labtool.herokuapp.com/register. Rekisteröitymiseen tarvitset nimesi, sähköpostiosoitteesi, opiskelijanumerosi, harjoitustyöaiheesi ja Github-repositoriosi http-osoitteen.
