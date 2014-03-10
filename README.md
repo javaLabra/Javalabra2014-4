@@ -12,8 +12,8 @@
 * [Maven, Cobertura ja PIT](ohjeet/Maven-Cobertura-ja-PIT.md)
 
 **Ohjaajat:**
-Lauri Kangassalo
-Emmi Otava
+* Lauri Kangassalo
+* Emmi Otava
 
 Sähköpostit etunimi.sukunimi@helsinki.fi.
 
