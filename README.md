@@ -1,4 +1,4 @@
-# Ohjelmoinnin harjoitustyö
+## Ohjelmoinnin harjoitustyö
 
 * [Yleistä](ohjeet/Yleistä.md)
 * [Esimerkkejä aiheista](ohjeet/Esimerkkejä-aiheista.md)
