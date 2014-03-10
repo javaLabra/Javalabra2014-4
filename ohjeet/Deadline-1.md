@@ -12,7 +12,7 @@
 
 Lyhyt kuvaus toteutettavasta ohjelmasta. Kuvauksen ei tarvitse olla kovin pitkä eikä kattava. Kuvaus tarkentuu myöhemmin, aluksi dokumentoidaan vain ideat, joiden pohjalta työtä lähdetään tekemään. Kuvaus sisältää muutaman tekstikappaleen pituisen yleiskuvauksen.
 
-Tee aihemäärittelystä md-tiedosto. Nämä tiedostot ovat siis GitHubin tukemia Markdown-tiedostoja, joihin on mahdollisuus lisätä omia muotoiluja. Kannattaa tutustua  [[Markdownin perusteisiin|https://help.github.com/articles/markdown-basics]] ja [[GitHub Flavored Markdowniin|https://help.github.com/articles/github-flavored-markdown]]. Tyylitietoisimmat voivat etsiä lisää kikkoja [[tästä kattavasta oppaasta|http://guides.github.com/overviews/mastering-markdown/]]. Kaikki kurssilla kirjoitettava dokumentaatio tulee olemaan md-tiedostoissa. Md-tiedostoja voi editoida myös suoraan GitHubissa.
+Tee aihemäärittelystä md-tiedosto. Nämä tiedostot ovat siis GitHubin tukemia Markdown-tiedostoja, joihin on mahdollisuus lisätä omia muotoiluja. Kannattaa tutustua  [Markdownin perusteisiin](https://help.github.com/articles/markdown-basics) ja [GitHub Flavored Markdowniin](https://help.github.com/articles/github-flavored-markdown). Tyylitietoisimmat voivat etsiä lisää kikkoja [tästä kattavasta oppaasta](http://guides.github.com/overviews/mastering-markdown/). Kaikki kurssilla kirjoitettava dokumentaatio tulee olemaan md-tiedostoissa. Md-tiedostoja voi editoida myös suoraan GitHubissa.
 
 Aihemäärittelylle hyvä muoto on seuraava:
 
@@ -64,6 +64,6 @@ Kansiorakenne:
 ## Palauta Githubiin ja rekisteröi itsesi kurssin labtooliin
 
 Puske (push) kaikki edellä tehdyt muutokset ja lisäykset Githubiin Git-ohjeiden mukaisesti.
-Rekisteröi itsesi kurssin labtooliin osoitteessa: http://tktl-labtool.herokuapp.com/register . Rekisteröitymiseen tarvitset nimesi, sähköpostiosoitteesi, opiskelijanumerosi, harjoitustyöaiheesi ja Github-repositoriosi http-osoitteen.
+Rekisteröi itsesi kurssin labtooliin osoitteessa: http://tktl-labtool.herokuapp.com/register. Rekisteröitymiseen tarvitset nimesi, sähköpostiosoitteesi, opiskelijanumerosi, harjoitustyöaiheesi ja Github-repositoriosi http-osoitteen.
 
-**Palautuksia ei lähetetä sähköpostilla. Jos törmäät ongelmiin, niin älä jää murhehtimaan yksinäsi, vaan lähetä sähköpostia ohjaajille. Palautukseksi katsotaan viimeisin ennen deadlinea tehty Github pushaus. Ohjaajat siis seuraavat edistymistä suoraan Github-repositoriosi kautta ja antavat palautetta työstäsi pajassa sekä labtoolin välityksellä http://tktl-labtool.herokuapp.com/mypage **
+**Palautuksia ei lähetetä sähköpostilla. Jos törmäät ongelmiin, niin älä jää murhehtimaan yksinäsi, vaan lähetä sähköpostia ohjaajille. Palautukseksi katsotaan viimeisin ennen deadlinea tehty Github pushaus. Ohjaajat siis seuraavat edistymistä suoraan Github-repositoriosi kautta ja antavat palautetta työstäsi pajassa sekä labtoolin välityksellä** http://tktl-labtool.herokuapp.com/mypage
