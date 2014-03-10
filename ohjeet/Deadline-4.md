@@ -1,35 +1,35 @@
-# Deadline 4
+ï»¿# Deadline 4
 
-### Ohjelma selkeästi edennyt
+### Ohjelma selkeÃ¤sti edennyt
 
-* Ohjelmoinnin tulee edetä jokaisella viikolla
-* Jos et vielä ole aloittanut, on suositeltavaa aloittaa graafinen käyttöliittymä pian
-  * Yksinkertaiseen käyttöliittymäänkin kuluu paljon aikaa
+* Ohjelmoinnin tulee edetÃ¤ jokaisella viikolla
+* Jos et vielÃ¤ ole aloittanut, on suositeltavaa aloittaa graafinen kÃ¤yttÃ¶liittymÃ¤ pian
+  * Yksinkertaiseen kÃ¤yttÃ¶liittymÃ¤Ã¤nkin kuluu paljon aikaa
 
 ### Ohjelman tulee noudattaa Clean code -periaatteita
-* Kiinnitä huomiota erityisesti pitkiin metodeihin
+* KiinnitÃ¤ huomiota erityisesti pitkiin metodeihin
 
-### JUnit-yksikkötestit
-* Testejä kaikille uusille luokille ja metodeille
+### JUnit-yksikkÃ¶testit
+* TestejÃ¤ kaikille uusille luokille ja metodeille
 * Uusi pit-raportti vanhan tilalle.
-* Ohjelmalogiikan testikattavuus hyvä (rivikattavuus yli >80%, mutanteista tapettu >50%)
-  * Prosenttimäärät eivät ole absoluuttisia, tarkoitus on testata kaikki mikä tuntuu mielekkäältä hyvin.
+* Ohjelmalogiikan testikattavuus hyvÃ¤ (rivikattavuus yli >80%, mutanteista tapettu >50%)
+  * ProsenttimÃ¤Ã¤rÃ¤t eivÃ¤t ole absoluuttisia, tarkoitus on testata kaikki mikÃ¤ tuntuu mielekkÃ¤Ã¤ltÃ¤ hyvin.
 
 ### Aloita JavaDoc
 * Tee jokaiselle luokalle luokan kuvaus
 * Aloita kuvaamaan julkisia (public) metodeja
-* Katso [ohjeet JavaDocin käyttöön](http://www.cs.helsinki.fi/node/61338) tai http://en.wikipedia.org/wiki/Javadoc
-* JavaDocia ei tarvitse kirjoittaa testeille tai get/set -metodeille, jotka eivät tee mitään ylimääräistä
+* Katso [ohjeet JavaDocin kÃ¤yttÃ¶Ã¶n](http://www.cs.helsinki.fi/node/61338) tai http://en.wikipedia.org/wiki/Javadoc
+* JavaDocia ei tarvitse kirjoittaa testeille tai get/set -metodeille, jotka eivÃ¤t tee mitÃ¤Ã¤n ylimÃ¤Ã¤rÃ¤istÃ¤
 
-### Piirrä sekvenssikaavioita
+### PiirrÃ¤ sekvenssikaavioita
 
 * Muista: .png tai .jpg
-* Luonnostele 2-3 tärkeintä sekvenssikaaviota käyttötapauksista
-* Tärkeimmät käyttötapaukset löydät aihemäärittelystäsi
-* Ota kuvataksesi riittävän pieniä käyttötapauksia
-* Älä yritä samassa kaaviossa esittää liian montaa asiaa, esimerkiksi ehdollisuutta
-* Epäonnistunut ja onnistunut kirjautuminen voisivat olla omat kaavionsa, tai yhden kaavion kaksi osaa
-  * Sekvenssikaavio alkaa tunnusten syöttämisellä, kirjautuminen hylätään, virheilmoitus, tunnukset syötetään uudestaan, kirjautuminen onnistuu
+* Luonnostele 2-3 tÃ¤rkeintÃ¤ sekvenssikaaviota kÃ¤yttÃ¶tapauksista
+* TÃ¤rkeimmÃ¤t kÃ¤yttÃ¶tapaukset lÃ¶ydÃ¤t aihemÃ¤Ã¤rittelystÃ¤si
+* Ota kuvataksesi riittÃ¤vÃ¤n pieniÃ¤ kÃ¤yttÃ¶tapauksia
+* Ã„lÃ¤ yritÃ¤ samassa kaaviossa esittÃ¤Ã¤ liian montaa asiaa, esimerkiksi ehdollisuutta
+* EpÃ¤onnistunut ja onnistunut kirjautuminen voisivat olla omat kaavionsa, tai yhden kaavion kaksi osaa
+  * Sekvenssikaavio alkaa tunnusten syÃ¶ttÃ¤misellÃ¤, kirjautuminen hylÃ¤tÃ¤Ã¤n, virheilmoitus, tunnukset syÃ¶tetÃ¤Ã¤n uudestaan, kirjautuminen onnistuu
 
 ### Muu dokumentointi
-* Päivitä luokkakaavio ja aihemäärittely, jos tarpeen
+* PÃ¤ivitÃ¤ luokkakaavio ja aihemÃ¤Ã¤rittely, jos tarpeen

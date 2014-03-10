@@ -1,57 +1,57 @@
-# Muistilista
+ï»¿# Muistilista
 
-Ohessa tarkistuslista lopullisen työn tavoitteisiin. Vajavainen toteutus vähentää pisteitä, puuttuva osat voi miinustaa pisteitä. Kurssin yhden osa-alueen (aikataulun noudattaminen, toteutus, dokumentaatio, testaus) laiminlyöminen voi olla yksin syy hylättyyn kurssisuoritukseen.
+Ohessa tarkistuslista lopullisen tyÃ¶n tavoitteisiin. Vajavainen toteutus vÃ¤hentÃ¤Ã¤ pisteitÃ¤, puuttuva osat voi miinustaa pisteitÃ¤. Kurssin yhden osa-alueen (aikataulun noudattaminen, toteutus, dokumentaatio, testaus) laiminlyÃ¶minen voi olla yksin syy hylÃ¤ttyyn kurssisuoritukseen.
 
-Täyteen arvosanaan ei vaadita virheetöntä suoritusta, mutta ohjeita kannattaa noudattaa mahdollisimman hyvin - niin opit itsekin parhaiten.
+TÃ¤yteen arvosanaan ei vaadita virheetÃ¶ntÃ¤ suoritusta, mutta ohjeita kannattaa noudattaa mahdollisimman hyvin - niin opit itsekin parhaiten.
 
 ### Ohjelma
 
 **Ohjelmakoodi**
-Ohjelma on riittävän laaja. Yksinkertaista aihetta on laajennettu esimerkiksi tallentamisella, pistetilastoilla, kirjautumisella tai erityisominaisuuksilla. Koodi on selkeää luettavaa, jaoteltu selkeisiin paketteihin ja luokkiin, joilla on yksi vastuu. Koodi on ylläpidettävää ja laajennettavaa.
+Ohjelma on riittÃ¤vÃ¤n laaja. Yksinkertaista aihetta on laajennettu esimerkiksi tallentamisella, pistetilastoilla, kirjautumisella tai erityisominaisuuksilla. Koodi on selkeÃ¤Ã¤ luettavaa, jaoteltu selkeisiin paketteihin ja luokkiin, joilla on yksi vastuu. Koodi on yllÃ¤pidettÃ¤vÃ¤Ã¤ ja laajennettavaa.
 * [Koodin laatuvaatimukset](Koodin-laatuvaatimukset.md)
 
 **Jar-tiedosto**
-Auttaa arvostelussa, jos tarkastajat eivät saa muuten käännettyä ohjelmakoodia. Huomioi erityisesti ohjelmasi tarvitsemat resurssit, kuten kuva- tai tekstitiedostot. Niiden sijainnit ilmoitetaan koodissa usein suhteellisina sijainteina, jolloin joudut ottamaan tiedostojen sijainnin huomioon myös jar-tiedoston kanssa. Testaa Jar-tiedostoa usealla koneella.
+Auttaa arvostelussa, jos tarkastajat eivÃ¤t saa muuten kÃ¤Ã¤nnettyÃ¤ ohjelmakoodia. Huomioi erityisesti ohjelmasi tarvitsemat resurssit, kuten kuva- tai tekstitiedostot. Niiden sijainnit ilmoitetaan koodissa usein suhteellisina sijainteina, jolloin joudut ottamaan tiedostojen sijainnin huomioon myÃ¶s jar-tiedoston kanssa. Testaa Jar-tiedostoa usealla koneella.
 * Yleisin syy toimimattomuuteen on Javan versiossa tai tiedostopolussa
 
 **Ohjelman toimivuus**
-Ohjelma ottaa huomioon esimerkiksi vääränmuotoisen syötteen, vääränmuotoiset tekstitiedostot tai ohjelman kannalta oleellisten tiedostojen puuttumisen kaatumatta. Pelien säännöt toimivat oikein.
+Ohjelma ottaa huomioon esimerkiksi vÃ¤Ã¤rÃ¤nmuotoisen syÃ¶tteen, vÃ¤Ã¤rÃ¤nmuotoiset tekstitiedostot tai ohjelman kannalta oleellisten tiedostojen puuttumisen kaatumatta. Pelien sÃ¤Ã¤nnÃ¶t toimivat oikein.
 
 ### Testit
 
-Ohjelman kaikkia järkeviä loogisia luokkia on testattu kattavasti: mahdollisimman montaa metodia, virhetilanteet ja syötteet huomioiden. Testeissä on tärkeää myös testien laatu. Testien tulisi testata järkeviä asioita, hyvin nimettyinä sekä järkevästi rakennettuina. Testiluokkien muuttujien, setUp() -metodin sekä apumetodien käyttö, asserttien virheilmoitusten sekä useiden erilaisten asserttien käyttö auttavat testien selkeyteen.
-* Käyttöliittymä, mahdolliset grafiikat, äänet ja ulkopuolisten kirjastojen toiminta testataan käsin, sillä yksikkötestausta näitä varten ei ole opetettu
+Ohjelman kaikkia jÃ¤rkeviÃ¤ loogisia luokkia on testattu kattavasti: mahdollisimman montaa metodia, virhetilanteet ja syÃ¶tteet huomioiden. TesteissÃ¤ on tÃ¤rkeÃ¤Ã¤ myÃ¶s testien laatu. Testien tulisi testata jÃ¤rkeviÃ¤ asioita, hyvin nimettyinÃ¤ sekÃ¤ jÃ¤rkevÃ¤sti rakennettuina. Testiluokkien muuttujien, setUp() -metodin sekÃ¤ apumetodien kÃ¤yttÃ¶, asserttien virheilmoitusten sekÃ¤ useiden erilaisten asserttien kÃ¤yttÃ¶ auttavat testien selkeyteen.
+* KÃ¤yttÃ¶liittymÃ¤, mahdolliset grafiikat, Ã¤Ã¤net ja ulkopuolisten kirjastojen toiminta testataan kÃ¤sin, sillÃ¤ yksikkÃ¶testausta nÃ¤itÃ¤ varten ei ole opetettu
 
 ### Dokumentaatio
 
-Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden kannalta. 
+KÃ¤ytÃ¤ kaikessa dokumentoinnissa omaa harkintakykyÃ¤si pituuden ja laajuuden kannalta. 
 
 **Javadoc**
 * Muista erityisesti seuraavat:
   * Luokat kuvattu
   * Attribuutit kuvattu
   * Metodit ja metodien parametrit/palautusarvot kuvattu
-* Testejä **ei** tarvitse kuvata
+* TestejÃ¤ **ei** tarvitse kuvata
 * @Override -metodeja **ei** tarvitse usein kuvata
-* Set/Get -metodeja **ei** tarvitse kuvata, jos metodit eivät tee laskentaa tai tarkastuksia
-* Käyttöliittymäluokkien koodia **ei** tarvitse kuvata kovin tarkasti
+* Set/Get -metodeja **ei** tarvitse kuvata, jos metodit eivÃ¤t tee laskentaa tai tarkastuksia
+* KÃ¤yttÃ¶liittymÃ¤luokkien koodia **ei** tarvitse kuvata kovin tarkasti
 
 **Luokkakaavio**
 * Merkitty kaikki oleelliset luokat, osallistumisrajoitteet ja yhteyksien suunnat
-* Käyttöliittymän voi kuitata yhdellä luokalla, tärkeintä on käyttöliittyymän suhde muuhun koodiin
-* **Ei** tarvitse merkitä attribuutteja tai metodeja - ne löytyvät JavaDocista
+* KÃ¤yttÃ¶liittymÃ¤n voi kuitata yhdellÃ¤ luokalla, tÃ¤rkeintÃ¤ on kÃ¤yttÃ¶liittyymÃ¤n suhde muuhun koodiin
+* **Ei** tarvitse merkitÃ¤ attribuutteja tai metodeja - ne lÃ¶ytyvÃ¤t JavaDocista
 * .jpg, .png tai .pdf
 
 **Sekvenssikaaviot**
-* 3-5 sekvenssikaaviota tärkeimmistä toiminnallisuuksista
-* Tärkeää sekvenssikaavioiden oikeellisuus ja selkeys
+* 3-5 sekvenssikaaviota tÃ¤rkeimmistÃ¤ toiminnallisuuksista
+* TÃ¤rkeÃ¤Ã¤ sekvenssikaavioiden oikeellisuus ja selkeys
 * .jpg, .png tai .pdf
 
-**Aihemäärittely**
-* Selkeä parin kappaleen selitys ohjelman sisällöstä
-* Lueteltu ohjelman käyttäjät
-* ...sekä käyttäjien toiminnat
-* Kelpaa myös käyttötapauskaaviona
+**AihemÃ¤Ã¤rittely**
+* SelkeÃ¤ parin kappaleen selitys ohjelman sisÃ¤llÃ¶stÃ¤
+* Lueteltu ohjelman kÃ¤yttÃ¤jÃ¤t
+* ...sekÃ¤ kÃ¤yttÃ¤jien toiminnat
+* Kelpaa myÃ¶s kÃ¤yttÃ¶tapauskaaviona
 * .txt tai .pdf
 
 **Ohjelman rakenteen kuvaus**
@@ -59,32 +59,32 @@ Käytä kaikessa dokumentoinnissa omaa harkintakykyäsi pituuden ja laajuuden kanna
 * Vapaamuotoinen muutaman tekstikappaleen kuvaus
 * .txt tai .pdf
 
-**Käyttöohjeet**
-* Ajattele ihmistä, joka ei ole koskaan käyttänyt ohjelmaasi
-* Jos ohjelma selittää itse itsensä, riittää suppeat käyttöohjeet tai toisinaan pelkkä käynnistysohje
+**KÃ¤yttÃ¶ohjeet**
+* Ajattele ihmistÃ¤, joka ei ole koskaan kÃ¤yttÃ¤nyt ohjelmaasi
+* Jos ohjelma selittÃ¤Ã¤ itse itsensÃ¤, riittÃ¤Ã¤ suppeat kÃ¤yttÃ¶ohjeet tai toisinaan pelkkÃ¤ kÃ¤ynnistysohje
 * .txt tai .pdf
 
 **Tuntikirjanpito**
-* Merkitse aina vähintään päivä, käyttämäsi aika ja ajankäytön kohde
+* Merkitse aina vÃ¤hintÃ¤Ã¤n pÃ¤ivÃ¤, kÃ¤yttÃ¤mÃ¤si aika ja ajankÃ¤ytÃ¶n kohde
 * .txt tai .pdf
 
 **Testausdokumentaatio**
 * (VAPAAEHTOINEN)
-* Vapaamuotoinen selitys siitä, miten ohjelmaansa on testannut automaattisella testauksella ja käsin
-* Hyvä muoto voi olla esimerkiksi taulukko tai muutama tekstikappale
+* Vapaamuotoinen selitys siitÃ¤, miten ohjelmaansa on testannut automaattisella testauksella ja kÃ¤sin
+* HyvÃ¤ muoto voi olla esimerkiksi taulukko tai muutama tekstikappale
 * Testausdokumentaatio on luonnollisin sijainti bugihavainnoille
 * .txt tai .pdf
 
 ### Kansiorakenne:
 
-* Harjoitustyösi juurikansio (Repositoriokansio)
+* HarjoitustyÃ¶si juurikansio (Repositoriokansio)
   * Ohjelma.jar
   * projekti (Netbeansin projektihakemisto)
   * javadoc (Generoitu dokumentaatio)
   * dokumentointi
     * aiheenKuvausJaRakenne.pdf
     * testausdokumentti.pdf
-    * käyttöohjeet.pdf
+    * kÃ¤yttÃ¶ohjeet.pdf
     * tuntikirjanpito.txt
     * luokka- ja sekvenssikaaviot
 
