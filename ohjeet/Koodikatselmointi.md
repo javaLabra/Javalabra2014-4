@@ -3,7 +3,7 @@
 Koodikatselmointi on osa Ohjelmoinnin harjoitustyötä. Katselmointi suoritetaan kerran kurssiviikolla 5. Katselmoinnista voi saada maksimissaan 2 lisäpistettä, joilla voi korvata puutteita kurssin muilla osa-alueilla. Kurssin maksimipistemäärä on siis edelleen 60.
 
 ### Katselmoinnin ajankohta
-* Koodikatselmoinnin DL on sunnuntaina 16.2. kello 22.00
+* Koodikatselmoinnin DL on sunnuntaina 13.4. kello 22.00
 
 Tämän katselmoinnin perimmäinen tarkoitus on oppia hahmottamaan toisen henkilön kirjoittamaa koodia ja kokonaista ohjelmointiprojektia. Toisten koodia luetaan kursseilla toistaiseksi valitettavan vähän, vaikka sujuva koodinlukutaito on välttämätön taito ohjelmoijan työssä. Hyvin suoritettu katselmointi on tehokas tapa havaita ongelmakohtia ja korjata virheitä mahdollisimman varhaisessa vaiheessa ohjelmointiprojektia.
 
@@ -30,6 +30,7 @@ Palautteessasi kerro toiselle opiskelijalle, missä on parannettavaa. Mitä tark
 Palaute annetaan Githubin Issuena:
 
 * Mene selaimellasi toisen opiskelijan repositorioon
+
 * Valitse välilehti *Issues*
 * Valitse oikeasta reunasta *New Issue*
 * Anna otsikko "Koodikatselmointi"
