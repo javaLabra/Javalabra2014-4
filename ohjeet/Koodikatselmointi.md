@@ -1,47 +1,47 @@
 # Koodikatselmointi
 
-Koodikatselmointi on osa Ohjelmoinnin harjoitustyötä. Katselmointi suoritetaan kerran kurssiviikolla 5. Katselmoinnista voi saada maksimissaan 2 lisäpistettä, joilla voi korvata puutteita kurssin muilla osa-alueilla. Kurssin maksimipistemäärä on siis edelleen 60.
+Koodikatselmointi on osa Ohjelmoinnin harjoitustyï¿½tï¿½. Katselmointi suoritetaan kerran kurssiviikolla 5. Katselmoinnista voi saada maksimissaan 2 lisï¿½pistettï¿½, joilla voi korvata puutteita kurssin muilla osa-alueilla. Kurssin maksimipistemï¿½ï¿½rï¿½ on siis edelleen 60.
 
 ### Katselmoinnin ajankohta
-* Koodikatselmoinnin DL on sunnuntaina 16.2. kello 22.00
+* Koodikatselmoinnin DL on sunnuntaina 13.4. kello 22.00
 
-Tämän katselmoinnin perimmäinen tarkoitus on oppia hahmottamaan toisen henkilön kirjoittamaa koodia ja kokonaista ohjelmointiprojektia. Toisten koodia luetaan kursseilla toistaiseksi valitettavan vähän, vaikka sujuva koodinlukutaito on välttämätön taito ohjelmoijan työssä. Hyvin suoritettu katselmointi on tehokas tapa havaita ongelmakohtia ja korjata virheitä mahdollisimman varhaisessa vaiheessa ohjelmointiprojektia.
+Tï¿½mï¿½n katselmoinnin perimmï¿½inen tarkoitus on oppia hahmottamaan toisen henkilï¿½n kirjoittamaa koodia ja kokonaista ohjelmointiprojektia. Toisten koodia luetaan kursseilla toistaiseksi valitettavan vï¿½hï¿½n, vaikka sujuva koodinlukutaito on vï¿½lttï¿½mï¿½tï¿½n taito ohjelmoijan tyï¿½ssï¿½. Hyvin suoritettu katselmointi on tehokas tapa havaita ongelmakohtia ja korjata virheitï¿½ mahdollisimman varhaisessa vaiheessa ohjelmointiprojektia.
 
 ### Ohjeet
 
-Näet sinulle osoitetun katselmointikohteen repositoriolinkin labtoolista koodikatselmoinnin käynnistyttyä http://tktl-labtool.herokuapp.com/mypage. Sinun tehtävänäsi on lukea läpi toisen opiskelijan harjoitustyö ja antaa siitä rakentavaa palautetta. Ohjelmaa kannattaa kokeilla myös suorittaa. Jos projekti on kuitenkin täysin tyhjä runko, niin ota yhteyttä ohjaajiin, niin valitsemme sinulle toisen katselmointikohteen.
+Nï¿½et sinulle osoitetun katselmointikohteen repositoriolinkin labtoolista koodikatselmoinnin kï¿½ynnistyttyï¿½ http://tktl-labtool.herokuapp.com/mypage. Sinun tehtï¿½vï¿½nï¿½si on lukea lï¿½pi toisen opiskelijan harjoitustyï¿½ ja antaa siitï¿½ rakentavaa palautetta. Ohjelmaa kannattaa kokeilla myï¿½s suorittaa. Jos projekti on kuitenkin tï¿½ysin tyhjï¿½ runko, niin ota yhteyttï¿½ ohjaajiin, niin valitsemme sinulle toisen katselmointikohteen.
 
 * Lataa zip-pakattu projekti koneellesi annetun repositorion *ZIP* -painikkeesta
-  * Ota talteen kellonaika ja päivä, jolloin latasit projektin
+  * Ota talteen kellonaika ja pï¿½ivï¿½, jolloin latasit projektin
 * Pura projekti
-* Lue ensimmäiseksi projektin aihemäärittely
-* Tutustu mahdollisimman kattavasti ohjelmakoodiin sekä testeihin
-  * Kokeile myös avata projekti Netbeansissa ja aja testit
-* Yritä ymmärtää, mitä mikäkin luokka ja metodi tekee
-  * Ole sinnikäs: Kaikkea ei aina osaa, eikä tarvitsekaan ymmärtää!
-  * Haastavin osuus lienee luokkien suhde toisiinsa. Käytä hyväksesi toisen piirtämiä luokkakaavioita
+* Lue ensimmï¿½iseksi projektin aihemï¿½ï¿½rittely
+* Tutustu mahdollisimman kattavasti ohjelmakoodiin sekï¿½ testeihin
+  * Kokeile myï¿½s avata projekti Netbeansissa ja aja testit
+* Yritï¿½ ymmï¿½rtï¿½ï¿½, mitï¿½ mikï¿½kin luokka ja metodi tekee
+  * Ole sinnikï¿½s: Kaikkea ei aina osaa, eikï¿½ tarvitsekaan ymmï¿½rtï¿½ï¿½!
+  * Haastavin osuus lienee luokkien suhde toisiinsa. Kï¿½ytï¿½ hyvï¿½ksesi toisen piirtï¿½miï¿½ luokkakaavioita
 
-Kun olet tutustunut riittävän tarkasti toisen projektiin, on aika antaa toiselle henkilölle palaute. Palautteessa ei tarvitse ottaa kantaa ohjelman dokumentointiin, ulkonäköön tai toimivuuteen. Tärkeintä on kiinnittää huomiota Ohjelmoinnin Perusteissa, Ohjelmoinnin Jatkokurssilla sekä Ohjelmistotekniikan menetelmien kurssilla opittuihin hyviin käytänteisiin sekä tällä kurssilla noudatettaviin [Clean code -periaatteisiin](Koodin-laatuvaatimukset.md).
+Kun olet tutustunut riittï¿½vï¿½n tarkasti toisen projektiin, on aika antaa toiselle henkilï¿½lle palaute. Palautteessa ei tarvitse ottaa kantaa ohjelman dokumentointiin, ulkonï¿½kï¿½ï¿½n tai toimivuuteen. Tï¿½rkeintï¿½ on kiinnittï¿½ï¿½ huomiota Ohjelmoinnin Perusteissa, Ohjelmoinnin Jatkokurssilla sekï¿½ Ohjelmistotekniikan menetelmien kurssilla opittuihin hyviin kï¿½ytï¿½nteisiin sekï¿½ tï¿½llï¿½ kurssilla noudatettaviin [Clean code -periaatteisiin](Koodin-laatuvaatimukset.md).
 
 ### Palautteenanto
 
-Palautteessasi kerro toiselle opiskelijalle, missä on parannettavaa. Mitä tarkempi palaute, sen arvokkaampaa se on palautteen saajalle. Osatessasi voit antaa vinkkejä siitä, miten asioita voisi tehdä toisin tai onko ohjelman rakenteessa parannettavaa. Jos havaitsit selkeitä bugeja tai virheellistä koodia, kerro siitä. Kannattaa kertoa myös, jos jotkin testit eivät toimineet tai projekti ei käänny. Tarkoitus ei ole tehdä labtoolin-tyylisiä hieman pintapuolisia mainintoja, vaan tutkia koodia tarkasti ja antaa täsmällisiä parannusehdotuksia. **Muista myös positiivinen palaute!** 
+Palautteessasi kerro toiselle opiskelijalle, missï¿½ on parannettavaa. Mitï¿½ tarkempi palaute, sen arvokkaampaa se on palautteen saajalle. Osatessasi voit antaa vinkkejï¿½ siitï¿½, miten asioita voisi tehdï¿½ toisin tai onko ohjelman rakenteessa parannettavaa. Jos havaitsit selkeitï¿½ bugeja tai virheellistï¿½ koodia, kerro siitï¿½. Kannattaa kertoa myï¿½s, jos jotkin testit eivï¿½t toimineet tai projekti ei kï¿½ï¿½nny. Tarkoitus ei ole tehdï¿½ labtoolin-tyylisiï¿½ hieman pintapuolisia mainintoja, vaan tutkia koodia tarkasti ja antaa tï¿½smï¿½llisiï¿½ parannusehdotuksia. **Muista myï¿½s positiivinen palaute!** 
 
 Palaute annetaan Githubin Issuena:
 
 * Mene selaimellasi toisen opiskelijan repositorioon
-* Valitse välilehti *Issues*
+* Valitse vï¿½lilehti *Issues*
 * Valitse oikeasta reunasta *New Issue*
 * Anna otsikko "Koodikatselmointi"
-* Kirjoita palautteesi kommenttilaatikkoon, Preview -välilehdestä näet palautteesi ulkomuodon
-  * Kommenttilaatikon yläpuolella on linkki tekstin muotoiluohjeisiin
-  * Palautelaatikko tukee myös kuvia
+* Kirjoita palautteesi kommenttilaatikkoon, Preview -vï¿½lilehdestï¿½ nï¿½et palautteesi ulkomuodon
+  * Kommenttilaatikon ylï¿½puolella on linkki tekstin muotoiluohjeisiin
+  * Palautelaatikko tukee myï¿½s kuvia
   * Varmuuden vuoksi kopioi kirjoittamasi palaute koneellesi tekstitiedostoon
-* Lisää palautteen alkuun päivä ja kellonaika, jolloin latasit annetun projektin
-* Lähetä palaute valitsemalla *Submit new issue*
+* Lisï¿½ï¿½ palautteen alkuun pï¿½ivï¿½ ja kellonaika, jolloin latasit annetun projektin
+* Lï¿½hetï¿½ palaute valitsemalla *Submit new issue*
 
-Issue eli tässä tapauksessa palaute on koko repositorion tapaan julkinen, joten sen voi lukea kuka tahansa. Ohjaajat lukevat ja pisteyttävät annetun palautteen mahdollisimman pian deadlinen jälkeen.
+Issue eli tï¿½ssï¿½ tapauksessa palaute on koko repositorion tapaan julkinen, joten sen voi lukea kuka tahansa. Ohjaajat lukevat ja pisteyttï¿½vï¿½t annetun palautteen mahdollisimman pian deadlinen jï¿½lkeen.
 
-Katselmoinnista jaetaan 0-2 pistettä. 5-10 laadukasta rakentavaa palautekommenttia riittää 2 pisteeseen. Palaute kirjoitetaan vapaamuotoisena, mutta yritä kirjoittaa selkeästi. Jaa palaute eri luokista eri kappaleisiin. Jos kirjoitat ranskalaisia viivoja, kirjoita kokonaisia lauseita tai mieluiten useita lauseita. Älä hyökkää palautteessa toista kohtaan! Toisaalta älä ota annettua palautetta itseesi - projektisihan on yhä kesken ja muokattavissa. Palautteen antajakin toisinaan ymmärtää väärin tai antaa virheellisiä ohjeita.
+Katselmoinnista jaetaan 0-2 pistettï¿½. 5-10 laadukasta rakentavaa palautekommenttia riittï¿½ï¿½ 2 pisteeseen. Palaute kirjoitetaan vapaamuotoisena, mutta yritï¿½ kirjoittaa selkeï¿½sti. Jaa palaute eri luokista eri kappaleisiin. Jos kirjoitat ranskalaisia viivoja, kirjoita kokonaisia lauseita tai mieluiten useita lauseita. ï¿½lï¿½ hyï¿½kkï¿½ï¿½ palautteessa toista kohtaan! Toisaalta ï¿½lï¿½ ota annettua palautetta itseesi - projektisihan on yhï¿½ kesken ja muokattavissa. Palautteen antajakin toisinaan ymmï¿½rtï¿½ï¿½ vï¿½ï¿½rin tai antaa virheellisiï¿½ ohjeita.
 
-**Huom.** Katselmoinnin kohteen projekti saattaa elää tai päivittyä sillä aikaa, kun kirjoitat palautetta. Tämän vuoksi palautteeseen liitetään aika, jolloin projektin kävi lataamassa itsellensä. Muulla tavalla asiaan ei kiinnitetä tällä kurssilla huomiota, eikä katselmoijan tarvitse aktiivisesti yrittää tarkistaa, jos jokin asia onkin ehtinyt jo muuttumaan. Palaute voi siis olla osin jo vanhentunutta.
+**Huom.** Katselmoinnin kohteen projekti saattaa elï¿½ï¿½ tai pï¿½ivittyï¿½ sillï¿½ aikaa, kun kirjoitat palautetta. Tï¿½mï¿½n vuoksi palautteeseen liitetï¿½ï¿½n aika, jolloin projektin kï¿½vi lataamassa itsellensï¿½. Muulla tavalla asiaan ei kiinnitetï¿½ tï¿½llï¿½ kurssilla huomiota, eikï¿½ katselmoijan tarvitse aktiivisesti yrittï¿½ï¿½ tarkistaa, jos jokin asia onkin ehtinyt jo muuttumaan. Palaute voi siis olla osin jo vanhentunutta.
