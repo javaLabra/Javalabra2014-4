@@ -20,7 +20,7 @@ Git on laajalti käytetty versionhallinnan työkalu, jota tarvitaan muunmuassa h
 4. Paina oikealla ylhäällä olevaa nappia "Create a free account"
 5. Täytä vaadittavat neljä kenttää ja klikkaa "Create an account"
 6. Paina oikealla olevaa harmaata nappia "New repository"
-7. Laita repositorion nimeksi esimerkiksi "OhHa", harjoitustyösi aihe tai oma nimiehdotuksesi ohjelmalle
+7. Laita repositorion nimeksi esimerkiksi harjoitustyösi aihe tai oma nimiehdotuksesi ohjelmalle (ohjeessa Fraktaaligeneraattori)
   * Valitse pallura "Public"
   * Valitse ruutu "Initialize this repository with a README"
 8. Klikkaa lopuksi "Create repository".
@@ -55,16 +55,16 @@ SSH-avaimen luominen ei ole pakollista, mutta helpottaa versionhallinnan käytt�
 **HUOMAA:** Tässä ohjeessa komentorivillä tarkoitetaan Linuxilla terminaalia ja Windowsin tapauksessa Git Bashia! Windowsin omat komentorivit eivät tunnista git-alkuisia komentoja, mikäli otit Gitin käyttöön yllä olevan linkin takana olevan Windows-ohjeen mukaan. Käytä Git Bashia.
 
 1. Hankkiudu Githubin sivulla luomasi repositorion näkymään. Sinne pääsee vaikkapa etusivulta kun olet kirjautunut, klikkaamalla repositorion nimeä.
-2. Kopioi vasemman sivupalkin alaosassa olevassa kentässä näkyvä kloonausosoite, joka on suunnilleen muotoa *git@github.com:käyttäjätunnuksesi/OhHa.git*. Jos osoite sen sijaan alkaa esimerkiksi *https://*, paina kentän läheisyydessä olevaa SSH-linkkiä jolloin osoitteen pitäisi muuttua oikeaan muotoon.
-3. Avaa komentorivi ja anna komento tyyliin `git clone git@github.com:käyttäjätunnuksesi/OhHa.git`
+2. Kopioi vasemman sivupalkin alaosassa olevassa kentässä näkyvä kloonausosoite, joka on suunnilleen muotoa *git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git*. Jos osoite sen sijaan alkaa esimerkiksi *https://*, paina kentän läheisyydessä olevaa SSH-linkkiä jolloin osoitteen pitäisi muuttua oikeaan muotoon.
+3. Avaa komentorivi ja anna komento tyyliin `git clone git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git`
 4. Seuraavaksi ohjelma pyytää vahvistamaan äskeisen komennon (yes/no) - vastaa yes
   * Jos git push sanoo “Permission denied (publickey)”, kokeile ssh-avaimen generointia uudestaan tai komentoa ssh-add
-5. Mene komentorivillä äsken kloonaamaasi kansioon (esim. OhHa) komennolla `cd OhHa` tms. Kaikki tiedostot voit listata komennolla `ls`.
-6. Komennon `cd OhHa` jälkeen olet kansiossa, johon tulet tallentamaan projektisi. Nyt komennolla `ls` tulisi näkyä tiedosto README.
+5. Mene komentorivillä äsken kloonaamaasi kansioon (esim. Fraktaaligeneraattori) komennolla `cd Fraktaaligeneraattori` tms. Kaikki tiedostot voit listata komennolla `ls`.
+6. Komennon `cd Fraktaaligeneraattori` jälkeen olet kansiossa, johon tulet tallentamaan projektisi. Nyt komennolla `ls` tulisi näkyä tiedosto README.
 
 ### Pieni repotreeni
 
-1. Varmista, että olet komentorivillä repositoriokansiossasi (esim. OhHa)
+1. Varmista, että olet komentorivillä repositoriokansiossasi (esim. Fraktaaligeneraattori)
 2. Avaa README-tiedosto vaikkapa komennolla `notepad README.md` (Windowsissa), `nano README.md` (koulun koneella), tai ihan millä tekstieditorilla haluat
 3. Tiedoston pitäisi aueta valitsemassasi editorissa. Kirjoita tiedostoon jotakin ja tallenna se. Nanossa tallenna ja sulje tiedosto painamalla *Ctrl + x*, ja vahvista tallennus painamalla *enter*.
 4. Anna komentorivillä komento *git status*. Nyt näet luettelon tiedostoista, joita olet muokannut (modified), tässä tapauksessa README-tiedosto.
@@ -89,14 +89,14 @@ Nyt osaat lisätä Githubiin tiedostoja ja kansioita: add - commit - push! Tee s
 
 Jos työskentelet useammalla kuin yhdellä koneella, voit versionhallinnan avulla pitää projektin ajan tasalla ilman että joudut siirtämään tiedostoja koneelta toiselle esimerkiksi muistitikulla. Sehän on yksi versionhallinnan hyödyistä! Tässä harjoituksessa pääset harjoittelemaan tiedostojen kopioimista Githubista koneellesi toisen repositoriokloonikansion avulla. Todellisessa tilanteessa harjoituksessa luotava toinen kloonikansio vastaa eri koneella olevaa kloonikansiota. Et siis tarvitse toista kloonia (varjorepo) muuhun kuin tähän harjoitukseen.
 
-1. Luo uudella nimellä (esim. varjorepo) toinen klooni repositoriosta antamalla komentorivillä komento tyyliin `git clone git@github.com:käyttäjätunnuksesi/OhHa.git varjorepo`. Klooni luodaan siis muuten kuten kohdassa “Repositorion valmistelu käyttöä varten”, paitsi että nyt kloonikansio nimetään itse.
-2. Muokkaa alkuperäisessä repossa (esim. OhHa) olevaa tiedostoa README. Anna add-komento, commit-komento ja push-komento alkuperäisessä repositoriokloonikansiossasi (OhHa), jotta äsken tehty muutos päätyy Githubiin asti.
+1. Luo uudella nimellä (esim. varjorepo) toinen klooni repositoriosta antamalla komentorivillä komento tyyliin `git clone git@github.com:käyttäjätunnuksesi/Fraktaaligeneraattori.git varjorepo`. Klooni luodaan siis muuten kuten kohdassa “Repositorion valmistelu käyttöä varten”, paitsi että nyt kloonikansio nimetään itse.
+2. Muokkaa alkuperäisessä repossa (esim. Fraktaaligeneraattori) olevaa tiedostoa README. Anna add-komento, commit-komento ja push-komento alkuperäisessä repositoriokloonikansiossasi (Fraktaaligeneraattori), jotta äsken tehty muutos päätyy Githubiin asti.
 3. Mene tämän harjoituksen alussa luomaasi varjorepoon. Avaa nyt README-tiedosto tässä uudessa repossa, jolloin huomaat että se ei ole muuttunut.
-4. Vedä alkuperäisessä kansiossasi (OhHa) tekemäsi muutokset varjorepoon Githubista komennolla `git pull`. Huomaat, että README-tiedosto päivittyy niiden muutosten mukaan, jotka teit alkuperäisessä kloonissa (OhHa)! Tarkista tämä vielä varjorepossa olevasta README-tiedostosta.
+4. Vedä alkuperäisessä kansiossasi (Fraktaaligeneraattori) tekemäsi muutokset varjorepoon Githubista komennolla `git pull`. Huomaat, että README-tiedosto päivittyy niiden muutosten mukaan, jotka teit alkuperäisessä kloonissa! Tarkista tämä vielä varjorepossa olevasta README-tiedostosta.
 
 ### Git & Netbeans
 
-Git ja Netbeans ovat hyviä kavereita. Luo ensin Netbeans-projektisi [näiden ohjeiden](Maven-Cobertura-ja-PIT.md#projektin-luominen) mukaisesti. Käytä Netbeans-projektin tallennuspaikkana koneellasi olevaa repositoriokloonikansiota: aseta Netbeansissa kohtaan “Project Location” koneella oleva repositorion kansio (esim. OhHa). Nyt tallennat projektiasi koko ajan repositorion kansioon.
+Git ja Netbeans ovat hyviä kavereita. Luo ensin Netbeans-projektisi [näiden ohjeiden](Maven-Cobertura-ja-PIT.md#projektin-luominen) mukaisesti. Käytä Netbeans-projektin tallennuspaikkana koneellasi olevaa repositoriokloonikansiota: aseta Netbeansissa kohtaan “Project Location” koneella oleva repositorion kansio (esim. Fraktaaligeneraattori). Nyt tallennat projektiasi koko ajan repositorion kansioon.
 1. Anna (kun olet ensin siirtynyt komentorivillä repositoriokansioosi) komentoriville komento `git status`. Huomaat kaksi uutta tiedostoa: harjoitustyösi lisäksi tiedoston .gitignore. Viimeksi mainittu on Netbeansin luoma tiedosto, joka antaa listan versionhallintaan kuulumattomista tiedostoista. Se pitää lisätä versionhallinnoitavaksi. Tiedostosta ei tarvitse ymmärtää enempää, mutta jos haluat tai tiedosto ei generoitunut automaattisesti, lue tämän dokumentin lopusta lyhyt .gitignore -selite.
 2. Anna komento `git add harkkatyöprojektisiNimi`_ ja sen jälkeen komento `git add .gitignore`.
 3. Nyt komennon git status pitäisi näyttää sekä harkkatyöprojektisi sisältöineen että .gitignore.
