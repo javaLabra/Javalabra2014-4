@@ -16,8 +16,8 @@ Git on laajalti käytetty versionhallinnan työkalu, jota tarvitaan muunmuassa h
 
 1. Jos et ole koulun koneella ja koneessasi ei ole valmiiksi Gitiä, voit ladata sen täältä: http://help.github.com/win-set-up-git/. Ohje on Windowsille, mutta sen alussa on linkit myös muita käyttöjärjestelmiä varten.
 2. Mene osoitteeseen [http://www.github.com/plans](http://www.github.com/plans)
-3. Hae itsellesi opiskelijatunnusta githubiin, saat ilmaisen Micro-planin ja siten ilmaisia private-repositorioita [https://education.github.com/](https://education.github.com/) 
-4. Paina oikealla ylhäällä olevaa nappia "Create a free account"
+3. Vapaaehtoinen - hae itsellesi opiskelijatunnusta githubiin, saat ilmaisen Micro-planin ja siten ilmaisia private-repositorioita [https://education.github.com/](https://education.github.com/) 
+4. Paina oikealla ylhäällä olevaa nappia "Sign Up"
 5. Täytä vaadittavat neljä kenttää ja klikkaa "Create an account"
 6. Paina oikealla olevaa harmaata nappia "New repository"
 7. Laita repositorion nimeksi esimerkiksi harjoitustyösi aihe tai oma nimiehdotuksesi ohjelmalle (ohjeessa Fraktaaligeneraattori)
