@@ -97,9 +97,11 @@ Jos työskentelet useammalla kuin yhdellä koneella, voit versionhallinnan avull
 ### Git & Netbeans
 
 Git ja Netbeans ovat hyviä kavereita. Luo ensin Netbeans-projektisi [näiden ohjeiden](Maven-Cobertura-ja-PIT.md#projektin-luominen) mukaisesti. Käytä Netbeans-projektin tallennuspaikkana koneellasi olevaa repositoriokloonikansiota: aseta Netbeansissa kohtaan “Project Location” koneella oleva repositorion kansio (esim. Fraktaaligeneraattori). Nyt tallennat projektiasi koko ajan repositorion kansioon.
+
 1. Anna (kun olet ensin siirtynyt komentorivillä repositoriokansioosi) komentoriville komento `git status`. Huomaat kaksi uutta tiedostoa: harjoitustyösi lisäksi tiedoston .gitignore. Viimeksi mainittu on Netbeansin luoma tiedosto, joka antaa listan versionhallintaan kuulumattomista tiedostoista. Se pitää lisätä versionhallinnoitavaksi. Tiedostosta ei tarvitse ymmärtää enempää, mutta jos haluat tai tiedosto ei generoitunut automaattisesti, lue tämän dokumentin lopusta lyhyt .gitignore -selite.
 2. Anna komento `git add harkkatyöprojektisiNimi`_ ja sen jälkeen komento `git add .gitignore`.
 3. Nyt komennon git status pitäisi näyttää sekä harkkatyöprojektisi sisältöineen että .gitignore.
+
 Anna commit-komento ja push-komento. Nyt harjoitustyösi löytyy Githubistasi!
 
 Nyt voit aloittaa harjoitustyösi tekemisen. 
