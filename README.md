@@ -23,6 +23,7 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai lähetä sähköpostia.
 
 ### Uutisia
+* **(1.4)** Torstain pajaa pidennetty tunnilla
 * **(17.3)** Keskiviikon paja siirretty saliin BK107
 * **(11.3)** Torstain pajaa pidennetty tunnilla
 * **(6.3)** Jos et ole suorittanut OTM:ää, osallistu tälle kurssille [http://www.cs.helsinki.fi/courses/582104/2014/k/k/1](http://www.cs.helsinki.fi/courses/582104/2014/k/k/1)
@@ -35,7 +36,7 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 * Ohjaukset ovat pajaluontoisia, pääosin vapaaehtoisia
 * Ohjausta on tarjolla viikoittain seuraavasti
  * **ke 16-18 (BK107)**
- * **to 14-17 (B221)**
+ * **to 13-17 (B221)**
 * Saat palautetta projektisi edistymisestä labtoolin kautta [http://tktl-labtool.herokuapp.com/mypage](http://tktl-labtool.herokuapp.com/mypage)
 * Ohjauksissa **on hyvä käydä** viikottain keskustelemassa edistymisestä ja kuulemassa ohjaajien palautetta
 * Palautehetkiin ei ole ajanvarausta
