@@ -1,7 +1,6 @@
-
 # JavaDoc
 
-Osa ohjelmiston dokumentointia on lähdekoodin API-kuvaus.  Javassa lähdekoodi dokumentoidaan käyttäen JavaDoc-työkalua.  Dokumentointi on kuin kommenttien kirjoittamista, mutta erityisillä avainsanoilla.  JavaDoc työkalu, jota voi käyttää suoraan NetBeanssin valikoista tekee kaikesta lähdekoodidokumentoinnista automaattisesti HTML-sivun.
+Osa ohjelmiston dokumentointia on lähdekoodin *API-kuvaus*.  Javassa lähdekoodi dokumentoidaan käyttäen *JavaDoc*-työkalua.  Dokumentointi on kuin kommenttien kirjoittamista, mutta erityisillä avainsanoilla.  JavaDoc työkalu, jota voi käyttää suoraan NetBeanssin valikoista tekee kaikesta lähdekoodidokumentoinnista automaattisesti HTML-sivun.
 
 Seuraava metodi on kommentoitu vapaamuotoisesti.  Kommentista käy ilmi mitä metodi tekee, mutta muotoiltua dokumentointisivua siitä ei saa tehtyä automaattisesti.
 ``` java
@@ -32,6 +31,16 @@ public int onnistumistodennakoisyys(int syote) {
 ```
 
 JavaDocin @param jne. avainsanoja ei onneksi tarvitse opetella ulkoa, koska NetBeans osaa täydentää myös JavaDoc-dokumentointia.  Oletusarvoisesti private & package -näkyvyydellä olevat metodit eivät tule dokumentointiin.  Tässä projektissa dokumentoimme kuitenkin kaikki.
+
+Myös luokkia voi ja kannattaa dokumentoida. Se tapahtuu samalla tavoin kuin metodienkin dokumentointi.
+``` java
+/**
+ * Luokka tarjoaa useita todennäköisyyslaskentaan tarvittavia metodeita
+ */
+public class Todennakoisyyslaskin {
+    /* ... */
+}
+```
 
 JavaDocista saa luotua HTML-version valitsemalla NetBeansissa *Run -> Generate JavaDoc*
 
