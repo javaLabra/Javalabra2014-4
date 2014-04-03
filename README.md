@@ -10,6 +10,7 @@
 * [Ohjeet koodikatselmointiin](ohjeet/Koodikatselmointi.md)
 * [Kertausta](ohjeet/Kertausta.md)
 * [Maven, Cobertura ja PIT](ohjeet/Maven-Cobertura-ja-PIT.md)
+* [JavaDoc](ohjeet/JavaDoc.md)
 
 **Ohjaajat:**
 * Lauri Kangassalo
