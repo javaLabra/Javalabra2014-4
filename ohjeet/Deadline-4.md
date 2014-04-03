@@ -20,6 +20,7 @@
 * Aloita kuvaamaan julkisia (public) metodeja
 * Katso [ohjeet JavaDocin käyttöön](http://www.cs.helsinki.fi/node/61338) tai http://en.wikipedia.org/wiki/Javadoc
 * JavaDocia ei tarvitse kirjoittaa testeille tai get/set -metodeille, jotka eivät tee mitään ylimääräistä
+* Ohjeesta poiketen JavaDocia ei tarvitse vielä tässä palautuksessa luoda Generate JavaDoc -painikkeella, riittää että JavaDocit on kirjoitettu lähdekoodiin.
 
 ### Piirrä sekvenssikaavioita
 
