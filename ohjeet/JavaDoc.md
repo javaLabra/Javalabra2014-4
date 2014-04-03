@@ -77,3 +77,4 @@ public int onnistumistodennakoisyys(int syote, int kayttajanKorjaus) {
 }
 ```
 
+Lisää ohjeita löydät [JavaDocin Wikipedia-sivulta](http://en.wikipedia.org/wiki/Javadoc)
