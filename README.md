@@ -1,4 +1,4 @@
-# Ohjelmoinnin harjoitustyö
+﻿# Ohjelmoinnin harjoitustyö
 
 * [Yleistä](ohjeet/Yleistä.md)
 * [Esimerkkejä aiheista](ohjeet/Esimerkkejä-aiheista.md)
@@ -24,6 +24,7 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai lähetä sähköpostia.
 
 ### Uutisia
+* **(11.4)** Demoajat päätetty, kts alempaa
 * **(1.4)** Torstain pajaa pidennetty tunnilla
 * **(17.3)** Keskiviikon paja siirretty saliin BK107
 * **(11.3)** Torstain pajaa pidennetty tunnilla
@@ -32,6 +33,12 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 
 
 ### Aikataulu
+
+* Demotilaisuudet to-pe 24.-25.4. seuraavasti:
+ * to 12-14 B221 (A-L)
+ * pe 10-12 B221 (M-Si)
+ * pe 15-17 B221 (So-Ö)
+  * Yritä ensisijaisesti tulla omaan ryhmääsi (jaettu sukunimen mukaan). Jos et pääse, tule seuraavaan.
 
 * Deadlinet 1-5 **torstaisin 23:59**
 * Ohjaukset ovat pajaluontoisia, pääosin vapaaehtoisia
