@@ -35,10 +35,10 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 ### Aikataulu
 
 * Demotilaisuudet to-pe 24.-25.4. seuraavasti:
- * to 12-14 B221 (A-L)
- * pe 10-12 B221 (M-Si)
- * pe 15-17 B221 (So-Ö)
-  * Yritä ensisijaisesti tulla omaan ryhmääsi (jaettu sukunimen mukaan). Jos et pääse, tule seuraavaan.
+  * to 12-14 B221 (A-L)
+  * pe 10-12 B221 (M-Si)
+  * pe 15-17 B221 (So-Ö)
+    * Yritä ensisijaisesti tulla omaan ryhmääsi (jaettu sukunimen mukaan). Jos et pääse, tule seuraavaan.
 
 * Deadlinet 1-5 **torstaisin 23:59**
 * Ohjaukset ovat pajaluontoisia, pääosin vapaaehtoisia
