@@ -24,6 +24,7 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai lähetä sähköpostia.
 
 ### Uutisia
+* **(11.4)** Lisätty muistutus pääsiäislomasta
 * **(11.4)** Demoajat päätetty, kts alempaa
 * **(1.4)** Torstain pajaa pidennetty tunnilla
 * **(17.3)** Keskiviikon paja siirretty saliin BK107
@@ -45,6 +46,7 @@ Sähköpostit etunimi.sukunimi@helsinki.fi.
 * Ohjausta on tarjolla viikoittain seuraavasti
  * **ke 16-18 (BK107)**
  * **to 13-17 (B221)**
+* **Pajaa ei järjestetä to 17.4. eikä to 24.4. (pääsiäistauko), eikä myöskään tenttiviikolla**
 * Saat palautetta projektisi edistymisestä labtoolin kautta [http://tktl-labtool.herokuapp.com/mypage](http://tktl-labtool.herokuapp.com/mypage)
 * Ohjauksissa **on hyvä käydä** viikottain keskustelemassa edistymisestä ja kuulemassa ohjaajien palautetta
 * Palautehetkiin ei ole ajanvarausta
